@@ -1696,11 +1696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\matc\\itdev162\\saw-paing\\API\\API.csproj",
+      "projectUniqueName": "C:\\code\\matc\\itdev162\\Saw-Paing\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\code\\matc\\itdev162\\saw-paing\\API\\API.csproj",
+      "projectPath": "C:\\code\\matc\\itdev162\\Saw-Paing\\API\\API.csproj",
       "packagesPath": "C:\\Users\\sawp2\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\matc\\itdev162\\saw-paing\\API\\obj\\",
+      "outputPath": "C:\\code\\matc\\itdev162\\Saw-Paing\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sawp2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1717,8 +1717,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\code\\matc\\itdev162\\saw-paing\\Application\\Application.csproj": {
-              "projectPath": "C:\\code\\matc\\itdev162\\saw-paing\\Application\\Application.csproj"
+            "C:\\code\\matc\\itdev162\\Saw-Paing\\Application\\Application.csproj": {
+              "projectPath": "C:\\code\\matc\\itdev162\\Saw-Paing\\Application\\Application.csproj"
             }
           }
         }
