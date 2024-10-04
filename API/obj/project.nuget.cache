@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n0PfnX7QW48=",
+  "dgSpecHash": "twZ8eweteCo=",
   "success": true,
-  "projectFilePath": "C:\\code\\matc\\itdev162\\Saw-Paing\\API\\API.csproj",
+  "projectFilePath": "C:\\code\\matc\\itdev162\\saw-paing\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sawp2\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
     "C:\\Users\\sawp2\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.8\\microsoft.data.sqlite.core.8.0.8.nupkg.sha512",
